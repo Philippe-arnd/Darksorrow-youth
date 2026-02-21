@@ -1,0 +1,3 @@
+
+
+Darksorrow commence la première épreuve dans la Fosse aux Scories. Malgré les moqueries de Shobek et la sévérité de Crakoukaz, il parvient à surmonter sa chute initiale en se connectant à une étrange énergie intérieure. Il rattrape Shobek au premier palier devant le Mur des Murmures.

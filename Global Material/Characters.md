@@ -1,9 +1,23 @@
 # Characters
 
-## Protagonist
+## Protagonist: Darksorrow
 
-le personnage principal est Darksorrow, c'est un apprenti voleur du village de Glim. C'est un mort vivant qui ne connait rien de son passé de vivant. Il se sent différent des autres mais ne sait pas pourquoi. l'histoire commence avec la première épreuve de la ligue des voleurs, une sorte d'académi ou les jeunes (il a 14 ans) apprenent les techniques. Il est entouré du maitre voleur Crakoukaz et de son ami Druide Tauren Lamz. Il a beaucoup de diffilcuté dans l'enseignement et son maitre bien que voyant son potentiel est très dur avec lkui
+Darksorrow est un mort-vivant (Réprouvé) de 14 ans (en âge d'apparence, son âge réel de "vie" est inconnu). Il ne possède aucun souvenir de son existence passée, si ce n'est des flashs sensoriels incohérents (une odeur de blé, le rire d'une femme, une douleur fulgurante à la poitrine). 
+**Apparence :** Peau grisâtre parcheminée, yeux d'un jaune spectral brillant dans l'ombre, silhouette maigre et nerveuse. Il porte des haillons de cuir renforcés, typiques des apprentis voleurs.
+**Personnalité :** Introverti et observateur. Il se sent étranger, même parmi les siens, car il ne partage pas le cynisme habituel des morts-vivants. Il cherche désespérément une validation, notamment auprès de son maître.
 
-## Antagonist / Obstacle
+## Supporting: Lamz
 
-La première épreuve de la ligue des voleurs, physique, réflexion, vitesse. Un autre élève shobek est le premier et se moque de lui
+Un jeune Druide Tauren, ami fidèle de Darksorrow. 
+**Apparence :** Une masse de muscles et de fourrure brune, dégageant une odeur de mousse et d'herbe fraîche qui contraste avec l'odeur de poussière de Darksorrow. 
+**Rôle :** Il est le compas moral et le soutien émotionnel. Il utilise la magie de la nature pour apaiser les tensions et rappelle souvent à Darksorrow que sa nature de mort-vivant ne définit pas son âme.
+
+## Mentor: Crakoukaz
+
+Maître voleur de la ligue de Glim. Un vieux Gobelin (ou mort-vivant très sec, selon l'interprétation la plus dure) marqué par des décennies de survie.
+**Personnalité :** Impitoyable, exigeant, il ne tolère pas l'échec. Il voit le potentiel brut de Darksorrow mais craint que son hésitation ne le fasse tuer. Sa dureté est une forme de protection tordue.
+
+## Antagonist: Shobek
+
+Un autre apprenti, probablement un Orc ou un humain renégat.
+**Personnalité :** Arrogant, doté d'une agilité naturelle insolente. Il prend un malin plaisir à humilier Darksorrow, le considérant comme un "sac d'os" sans avenir. Il représente la réussite facile et cruelle.
