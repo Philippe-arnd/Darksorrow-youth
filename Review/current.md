@@ -38,7 +38,7 @@ Ils le conduisent dans la salle vaste au brasier de feu follet. Au centre, sur u
 
 Darksorrow s'approche. Il sent le regard de Crakoukaz, toujours là-haut sur sa plateforme, mais le Maître semble étrangement distant, presque figé dans le temps. 
 
-Il pose sa main sur la poignée de verre. À l'instant où le contact s'établit, une onde de choc traverse tout son être. Des milliers de voix s'élèvent dans son esprit, un hurlement collectif qui raconte l'histoire de Terminus, les trahisons, les rituels interdits, et le visage de la femme dont il avait oublié le rire. Elle l'appelle par un autre nom. Un nom de vivant. Un nom de roi.
+Il pose sa main sur la poignée de verre. À l'instant où le contact s'établit, une onde de choc traverse tout son être. Des milliers de voix s'élèvent dans son esprit, un hurlement collectif qui raconte l'histoire de Terminus, les trahisons, les rituels interdits, et le visage de la femme dont il avait oublié le rire. Elle l'appelle par un autre nom. Un nom de vivant. un nom de roi.
 
 Le brasier de feu follet s'éteint brusquement. Lorsqu'il se rallume, les silhouettes masquées ont disparu. Seul reste Darksorrow, debout devant le piédestal vide, la dague de verre noir à la main.
 
@@ -46,13 +46,17 @@ Depuis les hauteurs, le silence de Crakoukaz est enfin brisé par un applaudisse
 
 — Tu as réussi la première épreuve, Darksorrow, dit le Maître d'une voix qui semble venir de très loin. Mais tu n'as pas rapporté la dague de bronze. Tu as trouvé quelque chose d'autre. Quelque chose qui n'aurait pas dû être là.
 
-Crakoukaz descend de sa plateforme, ses mouvements de gargouille plus fluides que jamais. Il s'arrête devant son apprenti, ses propres yeux de Gobelin scrutant la lame de verre.
+Crakoukaz descend de sa plateforme, ses mouvements de gargouille plus fluides que jamais. Il s'arrête devant son apprenti, ses propres yeux de Gobelin scrutant la lame de verre. Son regard, habituellement impitoyable, s'élargit soudain d'une stupéfaction qu'il ne parvient pas à masquer. Il tend une main tremblante vers la poignée, puis se ravise, ses doigts griffus se refermant dans le vide.
 
-— La Fraternité... murmure-t-il. Ils sont donc revenus. Le complot est plus avancé que je ne le pensais.
+— Qu'est-ce que c'est que ça ? murmure-t-il, la voix brisée par une incrédulité inhabituelle. Ce n'est pas une lame de Glim... ce n'est même pas une lame de ce siècle.
 
-Il pose une main sur l'épaule de Darksorrow. Pour la première fois, ce n'est pas un geste de dureté, mais de reconnaissance.
+Il fait un pas en arrière, observant l'éclat sombre du verre comme s'il s'agissait d'un serpent endormi. Sa gorge laisse échapper un sifflement sec.
 
-— Tu as franchi le seuil, mon garçon. Mais sache une chose : le respect que tu as gagné aujourd'hui est une cible peinte sur ton dos. Le monde de Terminus vient de se souvenir de toi. Et il ne te laissera plus jamais en paix. <!-- INK: Intègre la suprise de Crakoukaz qui ne reconnait pas cette dague et pense qu'elle est ancienne -->
+— La Fraternité... ils sont donc revenus. Le complot est plus avancé que je ne le pensais. Mais cet objet... Darksorrow, je ne reconnais pas cette facture. C'est une relique antique, une arme forgée avant même que la Fracture ne déchire le ciel de Terminus. Comment as-tu pu... ?
+
+Il s'interrompt, ses yeux jaunes plongeant dans ceux de son apprenti. Pour la première fois, ce n'est pas la dureté du maître qui s'exprime, mais une forme de respect mâtiné de terreur.
+
+— Tu as franchi le seuil, mon garçon. Mais sache une chose : le respect que tu as gagné aujourd'hui est une cible peinte sur ton dos. En ramenant cette horreur du passé, le monde de Terminus vient de se souvenir de toi. Et il ne te laissera plus jamais en paix.
 
 Darksorrow regarde la dague, puis il regarde son maître. Il ne se sent pas comme celui qui a réussi l'épreuve. Il se sent comme un pion qui vient de découvrir l'existence de l'échiquier. Mais au moins, il ne compte plus les cailloux dans la poussière. Il est prêt pour la suite.
 
