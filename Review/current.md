@@ -1,3 +1,4 @@
+<!-- INK: Start with setting up Glim, the atmosphere -->
 I tried to be as silent as the grave, but my left knee had other ideas. It let out a click that sounded like a dry branch snapping in the absolute silence of the Whispering Hall. I froze, my skeletal foot hovering an inch above the cold obsidian floor. 
 
 *Don't breathe,* I thought, then remembered I hadn't breathed in three years. *Don't flicker.*
@@ -20,9 +21,9 @@ The thought hit me harder than a mace. Returning to Glim wasn't just a failure; 
 
 "I won't fail," I said, trying to find a steel in my voice that I didn't quite feel.
 
-Crakoukass didn't reply. He simply turned and vanished into the darkness as if he had never been there at all.
+Crakoukass <!-- INK: mocks Darksorrow --> didn't reply. He simply turned and vanished into the darkness as if he had never been there at all.
 
-I stood there for a moment, the silence of the Hall pressing in on me, until a soft, rhythmic sound reached my ears. A slow, deliberate clap.
+I stood there for about five minutes, the silence of the Hall pressing in on me, until a soft, rhythmic sound reached my ears. A slow, deliberate clap.
 
 "Bravo," a voice drawled. "Truly, a performance for the ages. I especially liked the part where your joints announced your presence to the entire zip code."
 
