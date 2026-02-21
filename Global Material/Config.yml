@@ -11,10 +11,10 @@ language: French
 
 # Target total length of the finished book in words.
 # Standard novel: 80000–100000. Novella: 40000–60000.
-target_length: 90000
+target_length: 5000
 
 # Total number of chapters planned for the book.
-chapter_count: 30
+chapter_count: 1
 
 # Prose structure within each chapter.
 # Options: linear, multi-pov, vignette
@@ -23,7 +23,7 @@ chapter_structure: linear
 # Words to generate per session.
 # Also the size of the rolling context window in current.md.
 # Adjust based on desired pace.
-words_per_session: 1500
+words_per_session: 1000
 
 # Number of recent Summary.md paragraphs to include in context each session.
 # Keeps input token usage bounded as the book grows.
@@ -38,4 +38,4 @@ current_chapter: 1
 # If .ink-running is older than this, session-open treats it as a crashed/killed session
 # and removes the stale lock automatically before proceeding.
 # Set this to slightly above the longest session you expect (default: 60).
-session_timeout_minutes: 60
+session_timeout_minutes: 10
