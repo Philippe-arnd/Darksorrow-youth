@@ -1,38 +1,20 @@
-# Config.yml — Book Configuration Template
-# Copy this file to: Global Material/Config.yml in each book repository.
-# All fields are required. See comments for valid values.
-#
-# NOTE: The AI model is NOT configured here. It is set at the agent gateway
-# level when registering the cron job (e.g., via --model or agent settings).
-# All AI credentials are managed by the agent gateway.
+# Config.yml — Book Configuration
+# Adjusted for a short, 5-page story (approx 2,500 words).
 
-# Target total length of the finished book in words.
-# Standard novel: 80000–100000. Novella: 40000–60000.
-target_length: 90000
+# Target total length: 2500 words.
+target_length: 2500
 
-# Total number of chapters planned for the book.
-chapter_count: 30
+# Total number of chapters. 3 chapters to fit the arc.
+chapter_count: 3
 
-# Prose structure within each chapter.
-# Options: linear, multi-pov, vignette
+# Prose structure: linear.
 chapter_structure: linear
 
-# Words to generate per session.
-# Also the size of the rolling context window in current.md.
-# Adjust based on desired pace.
-words_per_session: 1500
+# Words per session: 800 (allows 3-4 sessions for the whole story).
+words_per_session: 800
 
-# Number of recent Summary.md paragraphs to include in context each session.
-# Keeps input token usage bounded as the book grows.
 summary_context_entries: 5
 
-# The chapter currently being written (1-indexed).
-# Increment this value (via the editor) when you are satisfied a chapter is complete.
-# Only the current chapter and the next one are loaded into context each session.
 current_chapter: 1
 
-# Maximum wall-clock minutes a session lock is considered valid.
-# If .ink-running is older than this, session-open treats it as a crashed/killed session
-# and removes the stale lock automatically before proceeding.
-# Set this to slightly above the longest session you expect (default: 60).
 session_timeout_minutes: 60

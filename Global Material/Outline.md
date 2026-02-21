@@ -1,45 +1,45 @@
 # Outline — Darksorrow Youth
 
-*The engine reads this every session to stay on track with the overall story arc. Fill in the structure below. Be as detailed as you want — the engine will not exceed what is planned.*
+*The story outline for the first exam.*
 
 ---
 
 ## Premise
 
-[One to three sentences: who wants what, what stands in the way, what is at stake?]
+Darksorrow, the underdog skeleton rogue, must survive the Academy’s first exam. He faces his rival, Lamz, and the relentless Master Crakoukass. Amidst the pressure of failure, his unique shadow-phasing capacity begins to manifest.
 
 ## Central Question
 
-[The dramatic question the entire book answers. Example: "Will Mira trust the empire that destroyed her home — or burn it down instead?"]
+Can a "low-tier" skeleton from Glim survive the elite Rogue Academy?
 
 ---
 
 ## Act 1 — Setup
 
-[Introduce protagonist, world, and inciting incident. What does the protagonist's life look like before everything changes? What event shatters the status quo?]
+Introduce Darksorrow’s struggle at the Academy. He feels like a failure after a disastrous stealth exercise. Master Crakoukass gives him a final warning before the exam.
 
-**Chapters:** 1–[n]
+**Chapters:** 1
 
 ## Act 2 — Confrontation
 
-[Rising conflict. What obstacles does the protagonist face? What does the midpoint reversal look like? How do the stakes escalate toward the climax?]
+The Exam begins in the Dungeon of Echoes. Darksorrow is pitted against Lamz in a race to the Shadow-Sigil. Lamz sabotages him, leaving Darksorrow trapped in a "light-trap" where he should be easily caught.
 
-**Chapters:** [n]–[n]
+**Chapters:** 2
 
 ### Midpoint
 
-[The moment that reframes the protagonist's goal or raises the stakes dramatically.]
+The "unique capacity" manifests. To escape the trap, Darksorrow’s bones flicker and turn into smoke—shadow-phasing. He avoids the Ghost-Eyes but doesn’t quite understand how he did it.
 
 ## Act 3 — Resolution
 
-[Climax and denouement. How does the protagonist's arc complete? What is won, lost, or changed? What does the world look like after?]
+The final showdown at the Sigil. Darksorrow uses his flickering phasing to bypass Lamz’s defenses and retrieve the Sigil just as Master Crakoukass arrives. He passes the exam, but the Master knows he’s special.
 
-**Chapters:** [n]–[n]
+**Chapters:** 3
 
 ---
 
 ## Chapter Breakdown
 
-*Fill in one line per chapter as you plan them. The engine loads only the current and next chapter outline each session.*
-
-See `/Chapters material/` for individual chapter files.
+1. Chapter 1: The Failing Grade. Darksorrow’s clumsy practice and Crakoukass’s ultimatum.
+2. Chapter 2: The Dungeon of Echoes. The exam starts; Lamz’s betrayal and the first phasing.
+3. Chapter 3: The Shadow-Sigil. The final climb and the successful passing.

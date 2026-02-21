@@ -1,19 +1,21 @@
 # Chapter 1
 
-*This file outlines Chapter 1 only — no prose. The engine reads this (and the next chapter) each session to stay oriented. Fill in the sections below.*
+*This file outlines Chapter 1 only — no prose.*
 
 ---
 
 ## Goal
 
-[What must happen by the end of this chapter? What does the protagonist want, and what does the reader need to understand?]
+Darksorrow fails a practice stealth run and faces a final warning from Master Crakoukass. He is mocked by Lamz.
 
 ## Scene Beats
 
-1. [Opening beat — where are we, who are we with, what is the immediate situation?]
-2. [Rising tension or complication]
-3. [Turn or revelation that propels into the next chapter]
+1. Darksorrow is sneaking through the "Whispering Hall." He's doing well until his knee clicks.
+2. Master Crakoukass, who was watching from above, lands silently in front of him.
+3. Crakoukass gives him a choice: pass the first exam tomorrow or return to Glim to be a "bone-scavenger."
+4. Lamz appears at the end of the hall, smugly polishing his obsidian daggers.
 
 ## Notes
 
-[Specific details to include: a piece of dialogue, an image, a mood, a character interaction. Anything that matters to you as the author.]
+- Focus on the sensory details: the cold stone, the silence of the hall, the sound of Darksorrow’s bones.
+- Darksorrow's internal monologue should be self-deprecating but determined.

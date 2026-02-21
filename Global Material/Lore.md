@@ -1,26 +1,18 @@
 # Lore — Darksorrow Youth
 
-*World-building reference. The engine reads this every session. Document the rules of your world — the engine will not contradict them. If a rule is not written here, the engine will invent one. Write it down.*
+*The worldbuilding reference for the world of Glim and the Rogue Academy.*
 
 ---
 
-## Setting
+## Glim (Village)
+A tiny, backwater undead village on the edge of the Deadlands. Known for its "low-tier" skeletons and ghouls. Most residents end up as field workers or guards, rarely as elites.
 
-[When and where does this story take place? Describe the world at a high level — geography, society, technology or magic level, political landscape. What makes this world distinct?]
+## The Rogue Academy
+A brutal training ground where the finest undead are taught the arts of shadow, silence, and sudden death. Located in the Obsidian Citadel, it is presided over by Master Crakoukass.
 
-## Rules
+## Undead Physiology
+- **Low-tier (Skeletons):** Cheap, fragile, but tireless. They often lack the "shadow-affinity" needed for advanced rogue-craft.
+- **Unique Capacity (Shadow-Phasing):** A legendary trait where an undead can temporarily turn their physical form into pure shadow. Darksorrow has this capacity but it only triggers under extreme stress or subconsciously.
 
-[The laws of the world that cannot be broken — physics, magic systems, social structures, technology limits. Be explicit: if FTL travel exists, what are its costs? If magic has limits, name them.]
-
-## History
-
-[What happened before the story begins that still shapes the present? List key events the reader may never see directly but that explain why the world is the way it is.]
-
-## Glossary
-
-[Define any invented terms, place names, factions, technologies, or concepts that appear in the prose. The engine uses this to spell and use them consistently.]
-
-| Term | Definition |
-|------|------------|
-| [Term] | [Definition] |
-| [Term] | [Definition] |
+## The Rogue’s Exam
+The final trial for initiates. A lethal game of cat-and-mouse within the Academy’s "Dungeon of Echoes." To pass, one must retrieve a "Shadow-Sigil" from the center of the dungeon without being detected by the Master’s "Ghost-Eyes."

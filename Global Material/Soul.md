@@ -1,25 +1,27 @@
 # Soul — Darksorrow Youth
 
-*This file defines the narrator's voice, tone, and prose style. The engine reads this every session. Be specific — vague guidance produces generic prose.*
+*This file defines the narrator's voice, tone, and prose style.*
 
 ---
 
 ## Narrator Voice
 
-[Who is narrating? Is the narrator a character or omniscient? What is their relationship to the story? Are they warm, clinical, sardonic, reverent?]
+Darksorrow (1st person). He is an aspiring undead rogue with a penchant for self-deprecation. He has a dry, morbid sense of humor and a genuine desire to be better than he is. He speaks in earnest but slightly clumsy internal monologues.
 
 ## Tone
 
-[What is the emotional register of this book? Dark and brooding? Hopeful despite adversity? Wryly humorous? What tonal lines must never be crossed?]
+Darkly humorous and atmospheric. Think "The Nightmare Before Christmas" meets a gritty fantasy rogue novel. It’s lighthearted in its cynicism but has moments of true tension.
 
 ## Prose Style
 
-[Sentence rhythm: short and punchy or long and lyrical? Dense or spare? How is interiority handled — deep POV, free indirect, or kept external? How much description per scene?]
+Fast-paced and rhythmic. Short, punchy sentences during action; longer, more flowing descriptions of shadows and cold air. He notices things like the way his ribs click or the smell of old stone.
 
 ## What This Book Sounds Like
 
-[Give three to five adjectives that define the prose. Then write two or three example sentences — original, in this book's voice — to anchor the engine.]
+Grim, quirky, tactile, underdog-focused.
+Example: "I tried to be as silent as the grave, but my left femur had other ideas. It let out a click that sounded like a gunshot in the silence of the Academy's halls. Master Crakoukass didn't even look up, but I felt his disappointment in the way my soul-flame flickered."
 
 ## Reference Voices
 
-[Name two or three authors or works whose prose this book echoes or aspires to. Briefly note what element to borrow: pacing, imagery, sentence structure, use of dialogue, etc.]
+- Terry Pratchett (Discworld): For the dry, observational humor.
+- Patrick Rothfuss (Name of the Wind): For the atmospheric, magical descriptions.
