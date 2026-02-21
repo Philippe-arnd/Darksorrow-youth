@@ -16,11 +16,11 @@ Il plaque sa main droite contre la paroi. Le froid du schiste est mordant, mais 
 
 Au fond de sa poitrine, là où se trouvait autrefois son cœur, une pulsation étrange se manifeste. Ce n'est pas un battement organique, mais une vibration arcanique, froide et ancienne. C'est comme un écho provenant d'un serveur lointain, une connexion de bas niveau qui s'établit soudainement. L'énergie est là, latente, attendant un mot de passe qu'il a oublié. Mais la sensation suffit à le propulser.
 
-Il s'élance. Ses mains trouvent des prises qu'il n'avait pas vues quelques secondes plus tôt. Il ne grimpe pas avec la force brutale de Shobek. Il glisse. Ses mouvements deviennent plus fluides, presque éthérés, comme s'il traversait la texture de la réalité au lieu de la subir. Il dépasse un autre apprenti, <!-- INK: que des morts vivants à Glim, humains et morts-vivants ne cohabitent pas --> un humain nommé Kael qui lutte contre une corde poisseuse, et continue sa montée.
+Il s'élance. Ses mains trouvent des prises qu'il n'avait pas vues quelques secondes plus tôt. Il ne grimpe pas avec la force brutale de Shobek. Il glisse. Ses mouvements deviennent plus fluides, presque éthérés, comme s'il traversait la texture de la réalité au lieu de la subir. Il dépasse un autre apprenti, un Réprouvé nommé Morkas dont le bras gauche pend lamentablement, et continue sa montée. À Glim, la cohabitation avec les vivants est une légende oubliée ; ici, seuls ceux qui ont déjà goûté à la tombe ont le droit de ramper dans l'ombre.
 
 La Fosse aux Scories est le premier filtre. Les parois sont piégées de jets de vapeur brûlante et de lames de pression qui s'activent de manière aléatoire. Darksorrow perçoit les cycles. *Gauche, droite, pause, vapeur.* Il bouge avant même que le mécanisme ne se déclenche, une intuition qui frise la prémonition, un script qu'il lirait en temps réel.
 
-Lorsqu'il atteint enfin le premier palier, il est seul face à Shobek. Le mort-vivant à la mâchoire de cuivre est en train de s'acharner sur une serrure complexe qui bloque l'accès au "Mur des Ombres". Shobek jure, ses doigts décharnés manquant de la précision nécessaire pour manipuler les goupilles de bronze. En voyant Darksorrow arriver, son regard jaune s'enflamme de haine.
+Lorsqu'il atteint enfin le premier palier, il est seul face à Shobek. Le mort-vivant à la mâchoire de cuivre est en train de s'acharner sur une serrure complexe qui bloque l'accès au "Mur des Ombres". Shobek jure, ses doigts décharnés manquant de la précision nécessaire pour manipuler les goupilles de bronze. Tout en s'escrimant, ses yeux jaunes lancent des éclairs vers la pénombre, comme s'il cherchait déjà un moyen de saboter le passage de ceux qui le suivent. En voyant Darksorrow arriver, son regard s'enflamme de haine.
 
 — Comment t'as fait, le déchet ? T'as trouvé un raccourci dans tes rêves ?
 
@@ -28,18 +28,44 @@ Darksorrow ne répond pas. Il s'approche de la porte massive, dont le métal est
 
 — Pousse-toi, Shobek, dit Darksorrow. La force brute ne servira à rien ici.
 
-L'autre apprenti grogne et lève son coude pour le repousser, mais un sifflement sec retentit depuis les hauteurs. Crakoukaz a dégainé une dague, la faisant briller dans la pénombre verte. Le message est clair : l'épreuve continue, et les conflits directs sont réservés à ceux qui ont déjà prouvé qu'ils pouvaient au moins ouvrir une porte.
+L'autre apprenti grogne et lève son coude pour le repousser, mais un sifflement sec retentit depuis les hauteurs. Crakoukaz a dégainé une dague, la faisant briller dans la pénombre verte. Shobek recule, mais Darksorrow surprend l'ombre d'un calcul dans son rictus. Le rival ne s'avoue pas vaincu ; il attend simplement que le travail difficile soit fait pour lui.
 
-Shobek s'écarte en crachant une insulte, <!-- INK: Induire que Shobek va essayer de ruser -->laissant la place à Darksorrow. L'apprenti pose ses doigts sur le mécanisme. Immédiatement, la pulsation dans sa poitrine s'intensifie. Les murmures de la paroi deviennent plus clairs, des voix superposées qui semblent réciter une séquence. 
+Darksorrow pose ses doigts sur le mécanisme. Immédiatement, la pulsation dans sa poitrine s'intensifie. Les murmures de la paroi deviennent plus clairs, des voix superposées qui semblent réciter une séquence. 
 
 *Un tour à gauche pour le sang versé, deux à droite pour l'ombre qui revient, un demi-tour pour le secret gardé.*
 
-Ce n'est pas de la magie, pas tout à fait. C'est comme s'il lisait le code source de l'objet. Ses doigts bougent avec une assurance qui l'effraie lui-même. Les goupilles s'alignent avec un déclic métallique satisfaisant. La lourde porte de bronze pivote sur ses gonds invisibles, révélant un couloir plongé dans une brume violette.
+Ses doigts bougent avec une assurance terrifiante. Les goupilles s'alignent avec un déclic métallique. La lourde porte de bronze pivote, révélant un couloir plongé dans une brume violette et épaisse.
 
-Shobek tente de s'engouffrer le premier, mais Darksorrow l'arrête d'un geste sec.
+Shobek s'apprête à se précipiter, mais Darksorrow s'immobilise, le regard fixe. Au cœur de la brume, une silhouette se découpe. Elle est immobile, élancée, vêtue d'une robe de velours nuit qui semble absorber la faible lumière ambiante. Son visage est dissimulé derrière un masque d'elfe noir aux traits d'une finesse cruelle, les orbites vides laissant deviner une intelligence glaciale.
 
-— Attends. Tu ne sens pas ça ?
+À cette vue, Darksorrow est frappé par un vertige violent. Ce n'est pas seulement une rencontre ; c'est un déclic. Une image remonte à la surface de sa conscience, fragmentée mais brûlante : des rangées de masques identiques sous une voûte de cristal, le serment d'une congrégation dont le nom lui échappe mais dont la puissance faisait trembler les rois. La Fraternité du Voile Éternel. Le souvenir est si vif qu'il croit sentir l'odeur de l'encens froid et le poids d'une bague à son doigt qu'il n'a plus.
 
-Dans la brume, quelque chose bouge. Ce n'est pas une créature, mais une distorsion de l'air. Un piège plus complexe que de simples lames. Darksorrow perçoit une présence, une observation silencieuse qui ne vient pas de Crakoukaz. Quelque chose d'ancien s'est réveillé en même temps que la pulsation dans sa poitrine. <!-- INK: etre plus subtil, il aperçoit un personnage étrange portant un masque d'elf noir, il a une impression de déjà vue et fait remonter des souvenirs anciens d'une congrégation aussi puissante que secrète --> Un complot qui dépasse les querelles d'apprentis de Glim commence à étendre ses fils invisibles autour de lui.
+— Qu'est-ce que tu fabriques, sac d'os ? Tu vois des fantômes ?
 
-Il fait un pas dans la brume. Derrière lui, le rictus de Shobek s'efface pour laisser place à une lueur d'inquiétude <!-- INK: Shobek va prendre avantage de ce moment d'hésitation de Darksorrow -->. Pour la première fois, le rival n'est plus en position de force. Ils entrent dans une zone où la mémoire du monde de Terminus est plus vivace que le présent, et où chaque pas de Darksorrow semble réveiller des fantômes qui auraient dû rester enterrés.
+La voix de Shobek brise le sort. L'Orc mort-vivant, incapable de percevoir la silhouette qui s'évapore déjà dans la brume, ne voit que l'hésitation de Darksorrow. C'est l'opportunité qu'il attendait. D'un coup d'épaule brutal, il projette Darksorrow contre la paroi humide.
+
+— Merci pour la porte, le rêveur ! La suite est pour moi !
+
+Shobek s'élance dans le couloir violet, disparaissant dans la brume avec un rire strident. Darksorrow, la tête sonnante, se redresse lentement. La silhouette masquée a disparu, mais la pulsation dans sa poitrine est devenue un bourdonnement constant. Ce n'était pas un hasard. Quelqu'un, ou quelque chose, l'observait. Et ce personnage étrange n'était qu'un messager.
+
+Le couloir semble s'étirer à l'infini. Darksorrow s'engage à son tour, plus prudemment. Le Mur des Murmures porte bien son nom : les parois ne sont plus de pierre, mais de visages pétrifiés qui semblent chuchoter des secrets interdits à mesure qu'il avance. Shobek a pris de l'avance, mais dans cet endroit, la vitesse est un piège. 
+
+Il sent soudain une résistance sous son pied. Un fil de déclenchement, presque invisible dans le violet ambiant. Shobek l'a franchi sans le voir, ou peut-être l'a-t-il volontairement activé pour piéger celui qui le suit. Darksorrow l'enjambe avec une souplesse de chat. 
+
+Devant lui, un cri de surprise retentit. Shobek n'est plus en train de rire. Il est suspendu par un pied, balancé au-dessus d'une fosse remplie de pieux de fer noir. Le mécanisme de la Ligue est classique, mais efficace.
+
+— Aide-moi ! rugit Shobek en se balançant frénétiquement. Décroche-moi avant que le vieux ne descende !
+
+Darksorrow s'arrête au bord de la fosse. Il regarde son rival, puis il regarde au-delà, là où le couloir s'ouvre sur une salle plus vaste, éclairée par un brasier de feu follet. Le personnage au masque d'elfe noir l'attend là-bas, il en est certain. 
+
+— La ruse est une arme à double tranchant, Shobek, répond-il d'une voix calme. Tu devrais te rappeler les leçons de Crakoukaz.
+
+Il ne détache pas Shobek immédiatement. Il prend le temps d'observer le mécanisme de la corde. Encore une fois, la logique structurelle lui apparaît. Il pourrait le libérer d'un simple mouvement, ou le laisser là pour garantir sa propre victoire. Mais la Fraternité... cette congrégation secrète dont il se souvient... ils ne cherchaient pas seulement la victoire. Ils cherchaient des alliés, ou des instruments.
+
+Alors qu'il tend la main vers le levier de libération, une voix s'élève, non pas de sa mémoire, mais de l'ombre même du couloir.
+
+— Le choix définit l'âme, même celle qui a été arrachée au néant.
+
+C'est la silhouette au masque d'elfe noir. Elle n'est plus dans la brume, elle est juste derrière lui. Darksorrow se fige. Il sent une pointe de glace contre son cou. Une dague de verre noir, identique à celle qu'il voyait dans ses flashs de mémoire.
+
+— Bienvenue chez les tiens, apprenti, murmure la voix. Ton maître t'a bien entraîné, mais il est temps de passer à des épreuves plus... sérieuses.
