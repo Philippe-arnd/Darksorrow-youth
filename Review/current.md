@@ -1,3 +1,5 @@
+# Darksorrow Youth
+
 Darksorrow a le goût de la poussière froide et de la terre humide dans la bouche. C’est un goût qu’il connaît bien, un goût de défaite qui semble coller à sa langue parcheminée depuis qu’il s’est éveillé dans ce monde de grisaille. À plat ventre au fond de la Fosse aux Scories, les tunnels de Glim pèsent sur ses épaules comme si la montagne elle-même cherchait à l'écraser. Autour de lui, l'obscurité n'est pas totale ; elle est striée de lueurs verdâtres provenant des mousses phosphorescentes qui tapissent les parois rocheuses, une esthétique de donjon oublié qui lui rappelle vaguement quelque chose — un souvenir de pixels et d'ombres, une interface mentale qu'il ne parvient pas à nommer.
 
 Il tente de se redresser. Ses articulations grincent, un bruit sec de cuir vieux et d'os mal huilés. Il n'a pas besoin de reprendre son souffle — ses poumons sont immobiles depuis longtemps — mais l'habitude réflexe de sa vie passée le pousse à une inspiration fantôme qui ne vient jamais. Ses yeux d'un jaune spectral clignent, essayant de percer le brouillard de poussière soulevé par les autres candidats.
