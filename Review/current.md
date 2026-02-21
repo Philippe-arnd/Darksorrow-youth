@@ -48,9 +48,9 @@ La voix de Shobek brise le sort. L'Orc mort-vivant, incapable de percevoir la si
 
 Shobek s'élance dans le couloir violet, disparaissant dans la brume avec un rire strident. Darksorrow, la tête sonnante, se redresse lentement. La silhouette masquée a disparu, mais la pulsation dans sa poitrine est devenue un bourdonnement constant. Ce n'était pas un hasard. Quelqu'un, ou quelque chose, l'observait. Et ce personnage étrange n'était qu'un messager.
 
-Le couloir semble s'étirer à l'infini. Darksorrow s'engage à son tour, plus prudemment. Le Mur des Murmures porte bien son nom : les parois ne sont plus de pierre, mais de visages pétrifiés qui semblent chuchoter des secrets interdits à mesure qu'il avance. Shobek a pris de l'avance, mais dans cet endroit, la vitesse est un piège. 
+Le couloir semble s'étirer à l'infini. Darksorrow s'engage à son tour, plus prudemment. Le Mur des Ombres porte bien son nom : les parois ne sont plus de pierre, mais de visages pétrifiés qui semblent chuchoter des secrets interdits à mesure qu'il avance. Shobek a pris de l'avance, mais dans cet endroit, la vitesse est un piège. 
 
-Il sent soudain une résistance sous son pied. Un fil de déclenchement, presque invisible dans le violet ambiant. Shobek l'a franchi sans le voir, ou peut-être l'a-t-il volontairement activé pour piéger celui qui le suit. Darksorrow l'enjambe avec une souplesse de chat. 
+Il sent soudain une résistance sous son pied. Un fil de déclenchement, presque invisible dans le violet ambiant. Shobek l'a franchi sans le voir, ou peut-être l'a-t-il volontairement activé pour piéger celui qui le suit. Darksorrow l'enjambe avec une souplesse de <!-- INK: plus impressionnat --> chat. 
 
 Devant lui, un cri de surprise retentit. Shobek n'est plus en train de rire. Il est suspendu par un pied, balancé au-dessus d'une fosse remplie de pieux de fer noir. Le mécanisme de la Ligue est classique, mais efficace.
 
@@ -68,4 +68,4 @@ Alors qu'il tend la main vers le levier de libération, une voix s'élève, non 
 
 C'est la silhouette au masque d'elfe noir. Elle n'est plus dans la brume, elle est juste derrière lui. Darksorrow se fige. Il sent une pointe de glace contre son cou. Une dague de verre noir, identique à celle qu'il voyait dans ses flashs de mémoire.
 
-— Bienvenue chez les tiens, apprenti, murmure la voix. Ton maître t'a bien entraîné, mais il est temps de passer à des épreuves plus... sérieuses.
+— Bienvenue chez les tiens, apprenti, murmure la voix. Ton maître t'a bien entraîné, mais <!-- INK: cela ne suffira pas. Pour la suite, la silhouette disparait en lui laissant une vilaine cicatrice sur la joue -->.
