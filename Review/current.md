@@ -10,17 +10,17 @@ Darksorrow serre les poings. Ses doigts gantés de cuir usé s'enfoncent dans le
 
 « Ne regarde pas le sommet, Darksorrow. Regarde la pierre. Elle a une mémoire. »
 
-La voix de Lamz lui revient en mémoire, douce et profonde comme le mugissement d'un kodo au loin. Son ami Tauren n'est pas là, bien sûr — les druides n'ont que faire des épreuves de la Ligue — mais son souvenir dégage une odeur rassurante de sauge et de terre fertile. Lamz lui avait appris que même dans la mort, il restait une connexion avec le monde physique, une sorte de résonance.
+La voix de Lamz lui revient en mémoire, <!-- INK: pas de voix douce, amicale, encourageante --> douce et profonde comme le mugissement d'un kodo au loin. Son ami Tauren n'est pas là, bien sûr — les druides n'ont que faire des épreuves de la Ligue — mais son souvenir dégage une odeur rassurante de sauge et de terre fertile. Lamz lui avait appris que même dans la mort, il restait une connexion avec le monde physique, une sorte de résonance.
 
 Darksorrow plaque sa main droite contre la paroi. Le froid du schiste est mordant, mais il ne le perçoit pas comme une agression. C'est une information. 0 et 1. Prise ou vide. Il ferme les yeux une seconde, cherchant à calmer le tumulte de ses pensées fragmentées. C'est alors qu'il le sent.
 
 Au fond de sa poitrine, là où se trouvait autrefois son cœur, une pulsation étrange se manifeste. Ce n'est pas un battement organique, mais une vibration arcanique, froide et ancienne. C'est comme un écho provenant d'un serveur lointain, une connexion de bas niveau qui s'établit soudainement. L'énergie est là, latente, attendant un mot de passe qu'il a oublié. Mais la sensation suffit à le propulser.
 
-Il s'élance. Ses mains trouvent des prises qu'il n'avait pas vues quelques secondes plus tôt. Il ne grimpe pas comme un Orc, avec force et fracas. Il glisse. Ses mouvements deviennent plus fluides, presque éthérés, comme s'il traversait la texture de la réalité au lieu de la subir. Il dépasse un autre apprenti, un humain nommé Kael qui lutte contre une corde poisseuse, et continue sa montée.
+Il s'élance à pleine vites. Ses mains trouvent des prises qu'il n'avait pas vues quelques secondes plus tôt. Il ne grimpe pas comme un Orc, avec force et fracas. Il glisse. Ses mouvements deviennent plus fluides, presque éthérés, comme s'il traversait la texture de la réalité au lieu de la subir. Il dépasse un autre apprenti, un humain nommé Kael qui lutte contre une corde poisseuse, et continue sa montée.
 
 La Fosse aux Scories est le premier filtre. Les parois sont piégées de jets de vapeur brûlante et de lames de pression qui s'activent de manière aléatoire. Darksorrow perçoit les cycles. *Gauche, droite, pause, vapeur.* Il bouge avant même que le mécanisme ne se déclenche, une intuition qui frise la prémonition. 
 
-Lorsqu'il atteint enfin le premier palier, il est à peine essoufflé — conceptuellement parlant. Shobek est là, en train de crocheter une serrure complexe qui bloque l'accès au "Mur des Murmures". L'Orc jure, ses doigts épais manquant de finesse. En voyant Darksorrow arriver, son visage se tord de rage.
+Lorsqu'il atteint enfin le premier palier, il est à peine essoufflé — conceptuellement parlant. Shobek est là, en train de crocheter une serrure complexe qui bloque l'accès au "Mur des Murmures". <!-- INK: Shobek est aussi un mort-vivant -->L'Orc jure, ses doigts épais manquant de finesse. En voyant Darksorrow arriver, son visage se tord de rage.
 
 — Comment t'as fait, le mort ? T'as triché ?
 
