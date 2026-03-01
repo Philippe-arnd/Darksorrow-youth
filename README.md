@@ -16,14 +16,15 @@
 - **Genre:** [Genre / Subgenre]
 - **Format:** [Book type] (~[N] words)
 - **Language:** [Language]
-- **Status:** In progress — Chapter 2
+- **Status:** In progress — Chapter 3
 
 ## Chapters
 
 <!-- INK:README:CHAPTERS -->
 
 1. **Chapter 1** ✓
-2. **Chapter 2** *(in progress)*
+2. **Chapter 2** ✓
+3. **Chapter 3** *(in progress)*
 
 ---
 *Generated with AI assistance via [Ink Gateway](https://github.com/Philippe-arnd/Ink-Gateway).*
