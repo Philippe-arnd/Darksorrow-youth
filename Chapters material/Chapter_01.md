@@ -1,19 +1,8 @@
 # Chapter 1
 
-*This file outlines Chapter 1 only — no prose. The engine reads this (and the next chapter) each session to stay oriented. Fill in the sections below.*
+## Plot Details
+Darksorrow est au cœur de sa première épreuve à l'académie des voleurs. C'est une épreuve de furtivité et de rapidité dans l'atmosphère oppressante de Glim.
+L'accent est mis sur le fait que Darksorrow possède quelque chose d'unique en lui, un vestige de sa vie passée en tant qu'être vivant, qui le marque comme ayant un grand destin.
 
----
-
-## Goal
-
-[What must happen by the end of this chapter? What does the protagonist want, and what does the reader need to understand?]
-
-## Scene Beats
-
-1. [Opening beat — where are we, who are we with, what is the immediate situation?]
-2. [Rising tension or complication]
-3. [Turn or revelation that propels into the next chapter]
-
-## Notes
-
-[Specific details to include: a piece of dialogue, an image, a mood, a character interaction. Anything that matters to you as the author.]
+## Emotional Note
+Le lecteur doit ressentir la solitude et la détermination de Darksorrow face à un monde froid et exigeant. La fin du chapitre doit laisser une note d'espoir et de mystère sur ses origines.

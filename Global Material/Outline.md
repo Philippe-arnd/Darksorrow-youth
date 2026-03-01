@@ -1,45 +1,16 @@
-# Outline — Darksorrow Youth
+# Outline (20 pages)
 
-*The engine reads this every session to stay on track with the overall story arc. Fill in the structure below. Be as detailed as you want — the engine will not exceed what is planned.*
+## Acte I : L'Éveil et l'Académie (Pages 1-7)
+- **Pages 1-3:** Introduction de Darksorrow à l'académie. Les échos de son passé sont de plus en plus forts, déclenchés par une vibration étrange dans les murs de Glim. Shobek tente d'humilier Darksorrow, ignorant que ce dernier est sensible aux énergies anciennes.
+- **Pages 4-5:** Discussion avec Lamz sur les **Reliques du Premier Souffle**. On soupçonne que Darksorrow a été enterré jadis avec l'une d'entre elles, ou qu'il en a touché une au moment de sa mort.
+- **Pages 6-7:** Shobek attaque Darksorrow. Lors du duel, Darksorrow manifeste brièvement une aura de l'Écho, effrayant Shobek et attirant l'attention des espions du Conclave.
 
----
+## Acte II : Les Ombres du Conclave (Pages 8-14)
+- **Pages 8-10:** Le **Conclave de la Face d'Obsidienne** frappe. Ils infiltrent l'académie non pas pour tuer, mais pour extraire des informations sur le "Cœur d'Astre-Noir". Darksorrow surprend un membre masqué manipulant une fiole de **Sang de Glim**.
+- **Pages 11-12 (Point de non-retour):** Combat acharné. Darksorrow récupère un fragment d'une relique que le membre du Conclave portait. L'ennemi s'auto-détruit avant de parler. Shobek semble fasciné par le pouvoir montré par le Conclave.
+- **Pages 13-14:** Lamz et Darksorrow étudient le fragment. Il s'agit d'un "Vecteur d'Âme". Ils réalisent que le Conclave veut utiliser le Sang de Glim pour réveiller le Cœur d'Astre-Noir.
 
-## Premise
-
-[One to three sentences: who wants what, what stands in the way, what is at stake?]
-
-## Central Question
-
-[The dramatic question the entire book answers. Example: "Will Mira trust the empire that destroyed her home — or burn it down instead?"]
-
----
-
-## Act 1 — Setup
-
-[Introduce protagonist, world, and inciting incident. What does the protagonist's life look like before everything changes? What event shatters the status quo?]
-
-**Chapters:** 1–[n]
-
-## Act 2 — Confrontation
-
-[Rising conflict. What obstacles does the protagonist face? What does the midpoint reversal look like? How do the stakes escalate toward the climax?]
-
-**Chapters:** [n]–[n]
-
-### Midpoint
-
-[The moment that reframes the protagonist's goal or raises the stakes dramatically.]
-
-## Act 3 — Resolution
-
-[Climax and denouement. How does the protagonist's arc complete? What is won, lost, or changed? What does the world look like after?]
-
-**Chapters:** [n]–[n]
-
----
-
-## Chapter Breakdown
-
-*Fill in one line per chapter as you plan them. The engine loads only the current and next chapter outline each session.*
-
-See `/Chapters material/` for individual chapter files.
+## Acte III : Le Labyrinthe des Reliques (Pages 15-20)
+- **Pages 15-17:** Épreuve finale dans les cryptes les plus profondes. Le Conclave intervient massivement. Shobek trahit l'académie pour rejoindre le Conclave, pensant obtenir le pouvoir d'une relique.
+- **Pages 18-19:** Darksorrow utilise sa connexion avec les Reliques pour protéger ses camarades et défaire le plan immédiat du Conclave. Il sacrifie ses propres souvenirs pour sceller temporairement l'accès au Cœur d'Astre-Noir.
+- **Page 20:** Darksorrow est diplômé, mais il sait que le Conclave ne s'arrêtera pas là. Il part en quête des autres Reliques du Premier Souffle pour empêcher la fin du cycle.

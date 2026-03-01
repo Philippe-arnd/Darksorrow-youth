@@ -1,40 +1,12 @@
-# Characters — Darksorrow Youth
-
-*The engine reads this every session to maintain consistency. Add a block for every named character. The more specific the voice and arc, the more consistent the prose.*
-
----
+# Characters
 
 ## Protagonist
+- **Darksorrow:** Jeune apprenti voleur mort-vivant. Contrairement aux autres réprouvés de Glim, il conserve une lueur étrange dans ses orbites, un reste de "chaleur" de sa vie passée. Il est agile mais souvent hanté par des flashbacks fragmentés d'une existence héroïque qu'il ne comprend pas encore. Sa détermination est son plus grand atout, compensant une constitution physique fragile.
 
-**Name:** [Full name]
-**Role:** Protagonist
-**Age / appearance:** [Brief physical description — only what is story-relevant]
-**Want:** [External goal — what they are actively pursuing]
-**Need:** [Internal wound or flaw — what they must learn or accept]
-**Voice:** [How do they speak? Clipped? Verbose? Sarcastic? Formal? Give a sample line.]
-**Arc:** [Where do they start emotionally? Where do they end?]
-**Notes:** [Any consistency details: tics, recurring gestures, relationships, history]
+## Antagonists
+- **Le Conclave de la Face d'Obsidienne (Anciennement Société Secrète):** Une organisation millénaire dont les membres arborent des masques d'ébène aux traits d'Elfes noirs. Ils ne cherchent pas seulement le pouvoir politique, mais la réunion des **Reliques du Premier Souffle**, des artefacts capables de manipuler le cycle de la vie et de la mort. Ils voient en Darksorrow un réceptacle potentiel pour l'une de ces reliques.
 
----
-
-## Antagonist
-
-**Name:** [Full name]
-**Role:** Antagonist
-**Age / appearance:** [Brief physical description]
-**Want:** [What do they want — and why does it conflict with the protagonist?]
-**Need:** [What blinds them or drives them to their role?]
-**Voice:** [How do they speak? Give a sample line.]
-**Arc:** [Do they change, or are they a fixed force? What is their fate?]
-**Notes:** [Motivation, history, relationship to protagonist]
-
----
-
-## Supporting Characters
-
-*Copy this block for each additional named character.*
-
-**Name:** [Full name]
-**Role:** [Function in the story]
-**Voice:** [Sample line]
-**Notes:** [Key traits, relationship to protagonist, story function]
+## Key Supporting Characters
+- **Lamz:** Un imposant Druide Tauren, calme et imposant, qui détonne dans le paysage minéral et glacial de Glim. Il est la boussole morale de Darksorrow. Bien qu'il soit un colosse capable d'écraser ses ennemis, il préfère la diplomatie et les soins, utilisant la magie de la nature pour apaiser les tourments de son ami mort-vivant.
+- **Shobek:** Un apprenti voleur ambitieux et arrogant. Pour lui, la mort n'est qu'une opportunité de puissance. Il voit en Darksorrow un obstacle à sa propre ascension et n'hésite pas à utiliser des méthodes déloyales pour briller aux yeux de Crakoukaz.
+- **Crakoukaz:** Maître des voleurs de Glim. Un vieux mort-vivant dont la mâchoire ne tient que par quelques fils de cuir. Il est cynique, exigeant et possède un humour noir décapant. Il voit le potentiel caché de Darksorrow mais le pousse à bout pour tester sa résistance.
