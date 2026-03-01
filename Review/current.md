@@ -9,7 +9,7 @@ Lorsqu’il franchit la herse de fer de l’académie, il trouva la cour plongé
 
 — Qu’est-ce qui se passe ? chuchota Darksorrow en s’approchant de Shobek.
 
-Le rival se tourna vers lui, et pour la première fois, Darksorrow ne vit pas de l’arrogance dans ses yeux, mais une curiosité malsaine, presque de l’admiration.
+Le rival se tourna vers lui, et pour la première fois, Darksorrow ne vit pas de l’arrogance dans ses yeux, mais une curiosité malsaine, difficile à déchiffrer.
 — Le vieux a senti une intrusion, répondit Shobek à voix basse. Quelqu’un a forcé les sceaux des archives. Personne n’est censé pouvoir faire ça sans déclencher les gardiens de pierre.
 
 Soudain, une explosion de lumière pourpre déchira le sommet de la tour. Un cri inhumain retentit, suivi du fracas de vitraux brisés. Une silhouette encapuchonnée se projeta par une fenêtre, atterrissant avec une légèreté impossible au milieu de la cour.
@@ -28,19 +28,9 @@ Shobek fit un pas en avant, ses dagues dégainées. Mais Darksorrow remarqua qu�
 Mais avant que quiconque ne puisse bouger, l’intrus leva la main gauche. Une onde de choc d’énergie d’ombre balaya la cour, jetant les apprentis au sol. Darksorrow, pourtant, resta debout. La chaleur ancienne irradia de nouveau de sa poitrine, formant un bouclier invisible qui dissipa l’onde de choc autour de lui.
 
 L’homme au masque d’obsidienne fixa alors Darksorrow. Son sourire sculpté sembla s’élargir.
-— Toi… l’Écho est fort en toi, petit cadavre. Tu es le réceptacle que nous cherchions.
+— Toi… l’Écho est fort en toi. <!-- INK: [Your instruction here] Soit moin précis, intègre du mystère--> Tu es le réceptacle que nous cherchions.
 
 Sans plus attendre, il s’élança vers Darksorrow avec une vitesse foudroyante, une lame de vide se matérialisant dans sa main.
-INK:NEW
-
-<!-- INK: [Your instruction here] décrit Lamz -->
-
-Darksorrow s'effondra sur un rocher en face de lui.
-— Lamz, il s'est passé quelque chose à l'académie. Quelque chose que je ne peux pas expliquer.
-
-Le Tauren leva ses yeux sombres et calmes vers le jeune mort-vivant. Il vit les résidus de la lueur bleue qui dansaient encore au fond de ses orbites. Il posa sa tasse et se pencha en avant, son imposante silhouette projetant une ombre rassurante sur Darksorrow.
-
-— Parle-moi de cette vibration, Darksorrow. Parle-moi de ce que ton cœur de pierre a ressenti.
 INK:NEW
 
 <!-- INK: [Your instruction here] -->
