@@ -1,49 +1,49 @@
 INK:NEW
-Lamz se redressa de toute sa hauteur, son bâton de bois de fer vibrant d'une lueur émeraude. Ses naseaux fumèrent dans l'air glacial alors qu'il fixait le traître.
-— Shobek, tu ne sais pas ce que tu fais. Le Conclave ne t'offre pas le pouvoir, il t'offre des chaînes que tu ne pourras jamais briser.
+# Chapitre 4 : Le Labyrinthe des Reliques
 
-Shobek éclata d'un rire sec, dépourvu de toute émotion.
-— Les chaînes de la Face d'Obsidienne valent mieux que la décrépitude de Glim. Regarde-moi, Darksorrow. Regarde ce que le Maître m'a déjà accordé.
+Le retour à Glim ne fut pas une infiltration, mais une course contre la montre. À mesure que Darksorrow et Lamz approchaient de l'académie, ils virent des colonnes de fumée violette s'élever de la tour des archives. Le Conclave n'attendait plus. L'assaut était lancé.
 
-D'un geste brusque, Shobek écarta les pans de sa nouvelle cape. Sa peau, autrefois d'un gris terne, était maintenant parcourue de veines violettes qui palpitaient d'une lumière impie. Il leva une main, et une fiole de Sang de Glim, qu'il tenait dissimulée, se brisa au sol. Au lieu de s'étaler, le liquide visqueux remonta le long de ses jambes comme une créature vivante, enveloppant ses membres d'une armure de ténèbres liquides.
+— Ils sont déjà là, murmura Darksorrow, ses dagues vibrant dans ses mains.
 
-Darksorrow sentit le Vecteur d'Âme sur la table de pierre vibrer avec une intensité insupportable. La chaleur dans sa poitrine se transforma en une brûlure vive.
-— Shobek, arrête ! Ce Sang de Glim... il est en train de te dévorer !
+— Alors nous n'avons plus le choix, répondit Lamz. Le Cœur est le seul moyen de mettre fin à cette folie.
 
-— Il me complète ! rugit Shobek en s'élançant.
+Ils forcèrent l'entrée de l'académie pour trouver une scène de chaos absolu. Les apprentis luttaient désespérément contre des silhouettes encapuchonnées qui semblaient surgir des ombres. Au centre de la cour, Crakoukaz maniait une faux d'énergie nécrotique, fauchant ses ennemis avec une efficacité terrifiante.
 
-Il fut sur eux en un instant, sa vitesse augmentée par l'énergie instable du Sang. Lamz abattit son bâton, créant un bouclier de racines et de lumière, mais Shobek le traversa comme s'il n'était que du papier de soie. Un coup de poing chargé d'énergie d'ombre envoya le Druide Tauren rouler au sol, son bâton volant au loin.
+— Darksorrow ! rugit le Maître des voleurs en les voyant. Le Labyrinthe est ouvert ! Shobek a brisé les derniers sceaux ! Si tu ne les arrêtes pas maintenant, Glim ne sera plus qu'un mausolée pour nos âmes !
 
-— Lamz ! cria Darksorrow.
+Darksorrow hocha la tête et s'élança vers l'entrée des cryptes, Lamz sur ses talons. La descente fut une plongée dans les entrailles du monde. L'air devint plus dense, saturé par l'odeur du Sang de Glim et d'une magie bien plus ancienne. Les parois de basalte étaient gravées de runes qui brillaient d'une lueur d'un bleu électrique, réagissant à la présence du Vecteur d'Âme contre la poitrine de Darksorrow.
 
-Shobek se tourna vers lui, sa main tendue vers le Vecteur d'Âme.
-— Donne-le-moi, Darksorrow. Donne-le-moi et je demanderai au Conclave d'épargner ton âme inutile. Tu pourras continuer à jouer au voleur dans les ruines, pendant que nous régnerons sur le nouveau cycle.
+Ils atteignirent enfin la chambre du Cœur. C'était une salle monumentale, dont les plafonds se perdaient dans les ténèbres. Au centre, suspendu par des chaînes d'ébène, le **Cœur d'Astre-Noir** palpitait. Des conduits de Sang de Glim y étaient connectés, déversant leur liquide corrupteur dans la relique qui passait lentement du bleu au violet sombre.
 
-Darksorrow recula jusqu'à toucher la dalle de pierre. Ses doigts effleurèrent le Vecteur d'Âme. À l'instant où le contact s'établit, la vision de la prairie ensoleillée revint, plus puissante que jamais. Il entendit une voix, non pas dans sa tête, mais dans son âme. *Le verrou ne protège pas seulement... il contient.*
+Devant le Cœur se tenait Shobek, entouré de membres du Conclave. Son corps était méconnaissable, une masse d'ombre et de lumière impie. 
+— Tu arrives trop tard, Darksorrow ! Le rituel est presque terminé ! Le Cœur va s'éveiller et le monde sera purifié !
 
-Il comprit soudain. Le Vecteur d'Âme n'était pas seulement un catalyseur pour le Sang de Glim. C'était un amplificateur pour l'Écho. 
+— Pas aujourd'hui, Shobek, répondit Darksorrow, sa voix résonnant avec la puissance de l'Écho.
 
-— Tu ne l'auras pas, Shobek. Ni le Vecteur, ni mon âme.
+Le combat final s'engagea. Darksorrow n'était plus un simple apprenti ; il était le Verrou. Chaque mouvement, chaque parade était une expression de la force du Premier Souffle. Lamz, à ses côtés, invoquait des racines de lumière qui entravaient les membres du Conclave. 
 
-Darksorrow ne saisit pas ses dagues. Il saisit l'éclat de pierre noire et le plaqua contre sa poitrine, là où son cœur battait autrefois. Une explosion de lumière bleue, d'une pureté aveuglante, déchira l'obscurité du campement. Les veines violettes sur le corps de Shobek s'évaporèrent dans un sifflement de vapeur fétide.
+Mais Shobek était devenu trop puissant. Il balaya Lamz d'un geste et se jeta sur Darksorrow, ses mains d'ombre cherchant à lui arracher le Vecteur d'Âme.
+— Donne-le-moi ! C'est ma destinée !
 
-Shobek recula en hurlant, se protégeant les yeux. 
-— Qu'est-ce que tu as fait ?!
+Darksorrow sentit le Cœur d'Astre-Noir sur le point de basculer. S'il ne faisait rien, l'explosion d'énergie détruirait tout. Il regarda le Vecteur d'Âme, puis le Cœur. Il comprit ce qu'il devait faire. 
 
-Darksorrow ne répondit pas. Il se sentait... plein. Pour la première fois depuis son réveil à Glim, il ne se sentait pas comme un cadavre animé, mais comme un être entier. L'aura de l'Écho l'enveloppait maintenant comme une armure de cristal.
+— Adieu, Shobek, murmura-t-il.
 
-— Pars, Shobek. Dis à tes maîtres que le verrou est conscient. Et qu'il ne se laissera pas briser.
+Darksorrow ne frappa pas Shobek. Il se jeta sur le Cœur d'Astre-Noir et y enfonça le Vecteur d'Âme. Une détonation de pure lumière blanche balaya la chambre. Darksorrow sentit ses souvenirs s'évaporer : le soleil, la prairie, le chant des oiseaux... tout ce qui faisait de lui un être "vivant" s'écoulait dans la relique pour servir de sceau. 
 
-Shobek, le visage à moitié brûlé par la lumière de l'Écho, jeta un dernier regard de haine pure vers Darksorrow avant de disparaître dans les brumes de la plaine gelée.
+L'énergie violette fut aspirée dans le Vecteur, et le Cœur retrouva sa lueur bleue apaisée. Shobek, privé de sa source de pouvoir, fut consumé par ses propres ténèbres dans un dernier cri de rage.
 
-Darksorrow s'effondra à genoux, la lumière s'estompant lentement. Il sentit Lamz s'approcher de lui, posant une main tremblante sur son dos.
-— Tu l'as fait, mon ami. Mais le Conclave sait maintenant exactement ce que tu es.
+Le silence revint dans les cryptes. Darksorrow s'effondra au sol, épuisé, son esprit comme une page blanche par endroits. Lamz s'approcha de lui, le visage marqué par la tristesse.
+— Tu as sauvé le monde, mon ami. Mais le prix...
 
-— Je sais, murmura Darksorrow en regardant ses mains qui tremblaient. Ils vont venir pour moi avec tout ce qu'ils ont.
+— Je me souviens de toi, Lamz, dit Darksorrow avec un faible sourire. Et je me souviens de Glim. C'est tout ce dont j'ai besoin pour l'instant.
 
-— Alors nous devons nous préparer, dit Lamz avec gravité. Glim n'est plus sûre pour toi. Nous devons trouver un moyen d'atteindre le Cœur d'Astre-Noir avant eux. 
+Quelques jours plus tard, à la surface, Crakoukaz remit solennellement à Darksorrow ses insignes de Maître Voleur.
+— Tu as dépassé toutes mes attentes, petit cadavre. Glim a besoin de toi.
 
-Dans le lointain, les lumières de Glim semblaient scintiller d'une lueur de plus en plus violette. Le temps des secrets était terminé. La guerre pour l'âme du monde venait de commencer.
+— Non, Maître, répondit Darksorrow en regardant l'horizon où le soleil (qu'il ne reconnaissait plus vraiment) se levait. Le Conclave est toujours là. Il y a d'autres Reliques. Quelqu'un doit les protéger.
+
+Il se tourna vers Lamz, qui l'attendait aux portes de la cité. Ensemble, ils quittèrent les ombres de Glim pour s'enfoncer dans les vastes contrées du monde. Darksorrow n'était plus un simple apprenti ; il était le Gardien de l'Écho. Et sa quête ne faisait que commencer.
 INK:NEW
 
 <!-- INK: [Your instruction here] Soit moin précis, intègre du mystère--> Tu es le réceptacle que nous cherchions.
