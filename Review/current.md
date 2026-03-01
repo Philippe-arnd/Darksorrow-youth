@@ -1,38 +1,39 @@
 INK:NEW
-La lame de vide siffla dans l'air, laissant derrière elle une traînée de distorsion sombre. Darksorrow n'eut pas le temps de réfléchir. Son corps, mû par une mémoire qui n'était pas la sienne, pivota sur lui-même. Il sentit de nouveau cette chaleur irradiante, mais cette fois, elle ne se contentait pas de le protéger. Elle guidait son bras.
+# Chapitre 3 : Le Murmure des Reliques
 
-Ses dagues d'entraînement, de simples morceaux de fer froid, s'entrechoquèrent avec la lame immatérielle de l'intrus. Au contact, une décharge d'énergie bleutée jaillit, illuminant la cour d'une lueur spectrale. L'homme au masque d'obsidienne recula d'un pas, son rire mental vibrant de surprise.
+Le silence qui suivit l'attaque du Conclave était plus lourd que le vacarme de l'explosion. Les apprentis, encore sous le choc, se relevaient lentement, leurs mouvements saccadés par la peur. Crakoukaz, lui, ne perdit pas un instant. Il ordonna le verrouillage complet de l'académie et l'activation des sentinelles de basalte les plus anciennes.
 
-— Tu ne devrais pas savoir faire ça, petit cadavre, murmura-t-il à travers l'écho psychique. Qui t'a appris les chants du Premier Souffle ?
+Darksorrow, l'éclat de pierre noire toujours serré dans sa main, sentit un regard brûlant peser sur lui. Shobek ne l'avait pas quitté des yeux. Il n'y avait plus seulement de la haine dans son regard, mais une soif de pouvoir qui semblait consumer sa raison. Mais Darksorrow n'avait pas le temps de s'occuper de son rival. Il devait voir Lamz.
 
-Darksorrow ne répondit pas. Il se sentait étrange, comme si sa conscience était partagée. Il voyait l'intrus, mais il voyait aussi des lignes de force invisibles qui parcouraient la cour, des courants d'énergie qui semblaient émaner des fondations de Glim. Il s'élança, ses mouvements n'ayant plus rien de la raideur habituelle des morts-vivants. Il était fluide, rapide, une ombre parmi les ombres.
+Profitant de la confusion et de sa nouvelle agilité, il se glissa hors de l'académie par un conduit d'aération que lui seul connaissait. Il traversa Glim comme une ombre, évitant les patrouilles de gardiens de fer. La cité semblait avoir changé ; l'air était chargé d'une électricité statique qui faisait hérisser les quelques poils restants sur ses bras.
 
-Shobek, toujours immobile, fixait le duel avec une intensité terrifiante. Ses dagues pendaient mollement à ses côtés, ses yeux dévorant chaque mouvement de l'homme masqué, comme s'il cherchait à en absorber la puissance par simple observation.
+Il atteignit le campement de Lamz alors que les premières lueurs d'un faux jour commençaient à percer la brume. Le Druide Tauren l'attendait, debout près d'un menhir gravé de mousses luminescentes.
 
-L'intrus leva de nouveau la main, préparant un sortilège qui semblait condenser toute l'ombre de la cour. Mais avant qu'il ne puisse libérer son attaque, une voix glaciale déchira le tumulte.
+— Tu l'as rapporté, dit Lamz sans préambule. Je peux entendre son chant d'ici.
 
-— Assez.
+Darksorrow ouvrit sa main, révélant le Vecteur d'Âme. La pierre pulsait maintenant d'un bleu profond, en rythme avec les battements inexistants de son cœur.
+— Un membre du Conclave l'a laissé derrière lui. Crakoukaz l'appelle un Vecteur d'Âme.
 
-Crakoukaz apparut sur le balcon des archives, sa silhouette décharnée se découpant sur la lueur violette de la tour. Il ne tenait aucune arme, mais l'air autour de lui sembla soudain se solidifier. Une pression immense s'abattit sur la cour.
+Lamz prit délicatement l'éclat entre ses doigts massifs. Une expression de gravité mêlée de fascination passa sur son visage. Il posa la pierre sur une dalle de pierre plate et commença à tracer des cercles de protection dans la terre avec son bâton de bois de fer.
 
-— On ne vole pas mes secrets sous mon nez, et on ne touche pas à mes outils avant que je n'aie fini de les utiliser, gronda le Maître des voleurs.
+— Ce n'est pas une simple pierre, Darksorrow. C'est un catalyseur. Il est conçu pour attirer et focaliser les énergies environnantes. Et ici, à Glim, l'énergie la plus abondante est le Sang de Glim.
 
-L'homme au masque d'obsidienne leva les yeux vers Crakoukaz. Il ne semblait pas effrayé, mais plutôt contrarié.
-— Le vieux gardien a encore des dents, à ce que je vois. Peu importe. Nous avons ce que nous sommes venus chercher.
+Le Druide ferma les yeux et commença à incanter dans une langue ancienne, une mélodie qui semblait faire vibrer l'herbe gelée autour d'eux. Sous l'influence du sortilège, le Vecteur d'Âme commença à projeter des images fantomatiques dans l'air. 
 
-Il serra le rouleau de parchemin contre lui. Une flamme violette commença à consumer ses vêtements. 
-— Darksorrow... souviens-toi de ce nom. Car bientôt, l'Écho reviendra au Silence.
+Darksorrow vit des conduits de Sang de Glim se déversant dans une immense chambre souterraine. Au centre de cette chambre, une masse sombre et informe palpitait, absorbant le liquide visqueux. 
+— Le Cœur d'Astre-Noir, murmura Darksorrow, reconnaissant la sensation qu'il avait éprouvée à l'académie.
 
-Dans une explosion de lumière noire qui fit chanceler tous les apprentis, l'intrus disparut. À l'endroit où il se tenait, il ne restait qu'une légère odeur d'ozone et un petit objet qui brillait sur le pavé de basalte.
+— Le Conclave ne cherche pas seulement à voler des parchemins, expliqua Lamz, sa voix tremblante. Ils veulent utiliser le Sang de Glim pour saturer le Cœur. S'ils y parviennent, ils pourront inverser le cycle des âmes. Les morts ne resteront pas des Réprouvés avec une conscience ; ils deviendront des coquilles vides, des serviteurs sans âme au service de la Face d'Obsidienne. Et les vivants... ils subiront le même sort.
 
-Darksorrow s'approcha en chancelant, la chaleur dans sa poitrine s'atténuant pour laisser place à un froid épuisant. Il ramassa l'objet. C'était un éclat de pierre noire, lisse et froide, parcouru de veines lumineuses qui semblaient pulser comme un cœur miniature.
+Les images changèrent. Darksorrow vit son propre visage, ou plutôt ce qu'il en restait, superposé à celui d'un guerrier en armure étincelante, brandissant une épée de lumière. 
+— C'est toi, Darksorrow. Ton âme porte la signature d'une des Reliques. C'est pour cela que tu peux manipuler l'Écho. Tu es le seul verrou qui les empêche d'accéder pleinement au Cœur.
 
-— Un Vecteur d'Âme, murmura Crakoukaz en sautant du balcon pour atterrir sans bruit près de lui. Sa mâchoire claqua nerveusement. Tu as attiré de gros ennuis dans ma maison, Darksorrow. De très gros ennuis.
+Soudain, une branche craqua dans l'ombre des menhirs. Darksorrow se retourna, ses dagues prêtes. 
+— Qui est là ?
 
-Shobek s'approcha à son tour, son regard fixé sur l'éclat dans la main de son rival. 
-— Qu'est-ce que c'est ? demanda-t-il, sa voix tremblante d'une jalousie qui n'était plus cachée.
+Une silhouette familière émergea de l'obscurité. C'était Shobek. Il ne portait plus son équipement d'académie, mais une cape sombre qui semblait faite de la même matière que celle de l'intrus. Son visage était tordu par un sourire dément.
 
-Darksorrow ne répondit pas. Il sentait la pierre vibrer contre sa paume, en parfaite harmonie avec la vibration qu'il avait ressentie plus tôt. Il savait que ce n'était que le début. Le Conclave ne s'arrêterait pas à une simple escarmouche. Ils reviendraient, et cette fois, il n'était pas sûr que Crakoukaz puisse, ou veuille, les arrêter.
+— Le bœuf a raison sur un point, Darksorrow, dit Shobek, sa voix sifflante. Tu es un verrou. Mais un verrou peut être brisé. Et le Conclave récompense généreusement ceux qui apportent la clé.
 INK:NEW
 
 <!-- INK: [Your instruction here] Soit moin précis, intègre du mystère--> Tu es le réceptacle que nous cherchions.
