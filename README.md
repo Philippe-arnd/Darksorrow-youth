@@ -16,7 +16,7 @@
 - **Genre:** [Genre / Subgenre]
 - **Format:** [Book type] (~[N] words)
 - **Language:** [Language]
-- **Status:** In progress — Chapter 3
+- **Status:** Complete — 3 chapters, 6593 words
 
 ## Chapters
 
@@ -24,7 +24,7 @@
 
 1. **Chapter 1** ✓
 2. **Chapter 2** ✓
-3. **Chapter 3** *(in progress)*
+3. **Chapter 3** ✓
 
 ---
 *Generated with AI assistance via [Ink Gateway](https://github.com/Philippe-arnd/Ink-Gateway).*
