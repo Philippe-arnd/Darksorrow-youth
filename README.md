@@ -1,22 +1,24 @@
 # Darksorrow Youth
 
-[📖 **Read the full book**](Current%20version/Full_Book.md)
+![Darksorrow](Global%20Material/Darksorrow.png)
 
-> [One-sentence tagline — the line that makes someone want to read this book]
+[📖 **Read the full book**](Current%20version/Full_Book.md) | [📑 **Version V1**](Current%20version/Darksorrow_Youth_V1.md)
 
-[2–3 sentences: genre, themes, what makes this book distinctive.]
+> Même dans la mort, un cœur peut encore battre pour la justice.
+
+Une nouvelle de dark fantasy épique inspirée de l'esthétique des jeux vidéo classiques. Suivez le parcours de Darksorrow, un mort-vivant qui doit puiser dans les échos de sa vie passée pour sauver le cycle des âmes.
 
 ## Synopsis
 
-[2–4 sentences: who is the protagonist, what do they want, what stands in their way, what is at stake emotionally.]
+Darksorrow, un apprenti voleur mort-vivant hanté par des souvenirs fragmentaires, doit protéger le Cœur d'Astre-Noir contre le sinistre Conclave de la Face d'Obsidienne. Entre la trahison de son rival Shobek et les secrets millénaires de la cité de Glim, il découvrira que son identité perdue est la clé de l'équilibre du monde.
 
 ## Details
 
-- **Author:** Unknown
-- **Genre:** [Genre / Subgenre]
-- **Format:** [Book type] (~[N] words)
-- **Language:** [Language]
-- **Status:** Complete — 3 chapters, 6593 words
+- **Author:** Philapps
+- **Genre:** Dark Fantasy / Shonen Nekketsu
+- **Format:** Nouvelle (~6600 mots)
+- **Language:** Français
+- **Status:** Complete — 4 chapters, 6593 words
 
 ## Chapters
 
@@ -25,6 +27,7 @@
 1. **Chapter 1** ✓
 2. **Chapter 2** ✓
 3. **Chapter 3** ✓
+4. **Chapter 4** ✓
 
 ---
 *Generated with AI assistance via [Ink Gateway](https://github.com/Philippe-arnd/Ink-Gateway).*
