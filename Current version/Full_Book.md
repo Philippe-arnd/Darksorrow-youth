@@ -2,3 +2,11 @@
 Human edits belong in Review/current.md.
 Validated content is appended automatically after each session.
 Use `ink-cli rollback` to undo the last session. -->
+
+# Current Session Context
+
+*This file is overwritten at the end of every writing session with the most recent prose (~`words_per_session` words). It gives the engine a running start — it sees where the prose left off without loading the entire book.*
+
+*To leave an instruction for the engine, add an INK comment anywhere in this file:*
+
+```
