@@ -8,3 +8,5 @@ Le destin de Darksorrow bascule lorsqu'il croise la route du **Conclave de la Fa
 Darksorrow est présenté lors de son entraînement à l'académie des voleurs de Glim. Malgré le froid mortel et la rivalité de Shobek, il parvient à accomplir un exploit de furtivité grâce à une manifestation mystérieuse de son passé et d'une énergie ancienne. Maître Crakoukaz est intrigué, tandis que le Conclave de la Face d'Obsidienne commence à ressentir son éveil.
 
 Après son exploit, Darksorrow est interrogé par un Crakoukaz méfiant et fait face à la jalousie de Shobek. Sur les conseils du Maître, il rejoint son ami Lamz à la périphérie de Glim. Le Druide Tauren ressent immédiatement le changement en lui et l'invite à raconter son expérience, marquant le début d'une discussion sur les origines de sa nouvelle force.
+
+Lamz explique à Darksorrow que sa connexion avec les Reliques du Premier Souffle, et notamment le Cœur d'Astre-Noir, est ce qui a provoqué ses manifestations. Il le met en garde contre le Conclave de la Face d'Obsidienne avant que Darksorrow ne soit rappelé à l'académie pour la session de minuit par le signal sonore de la cité.

@@ -1,31 +1,34 @@
-Crakoukaz écarquilla ses yeux laiteux. Shobek, lui, se redressa brusquement, son sourire s'effaçant pour laisser place à une incrédulité mêlée d'une peur viscérale. Darksorrow atteignit l'autre extrémité du parcours, immobile, le souffle court (bien qu'il n'en ait pas besoin), ses orbites brillant d'une lueur d'un bleu électrique qu'il n'avait jamais vue auparavant.
-
-— Impressionnant, Darksorrow... mais troublant, commenta Crakoukaz en s'approchant. On dirait que tu as déterré quelque chose que tu aurais dû laisser dans ta tombe.
-
-À cet instant, dans les recoins les plus sombres de la cité, des masques d'ébène se tournèrent vers l'académie. Le Conclave venait de ressentir le premier éveil.
-
-
 INK:NEW
-Crakoukaz s'arrêta à quelques centimètres de Darksorrow, l'odeur de vieux parchemin et de poussière de tombe émanant de ses vêtements de cuir. Il tendit un doigt osseux et effleura la joue du jeune voleur. La lueur bleue s'estompa instantanément, laissant Darksorrow tremblant et désorienté.
+Lamz n'était pas un Tauren comme les autres. Sa fourrure, d'un brun profond parsemé de taches blanches comme de la neige ancienne, semblait absorber la lumière faible de Glim plutôt que de la refléter. Ses cornes, larges et gravées de runes druidiques qui luisaient d'un vert doux, encadraient un visage marqué par une sagesse qui semblait remonter à avant la chute des cités. Il portait des cuirs souples et des étoffes tissées de racines, un contraste vivant avec le métal et la pierre de la cité des morts.
 
-— Tes réflexes sont revenus, c’est une chose, gronda le Maître, sa mâchoire claquant légèrement. Mais cette lumière… ce n’est pas de la nécromancie. Ce n’est pas non plus le Sang de Glim qui alimente nos quartiers. Dis-moi, petit, as-tu mangé un fragment de cristal d’âme au petit-déjeuner ?
+Darksorrow prit une inspiration tremblante, sentant l'odeur de la mousse et de la terre humide qui émanait du Druide.
+— C'était une chaleur, Lamz. Pas celle d'un feu de camp ou d'un moteur alchimique. C'était une chaleur qui venait de l'intérieur, comme si quelque chose de très ancien s'était réveillé dans mes os. Et puis, il y a eu cette vibration… elle venait de la terre, mais elle semblait m'appeler.
 
-Darksorrow secoua la tête, cherchant ses mots. Sa gorge était complètement sèche, plus qu'à l'accoutumée.
-— Je… je ne sais pas, Maître. J’ai ressenti une vibration. Comme si la pierre me parlait. Comme si je me souvenais de la façon dont l’air bougeait avant… avant tout ça.
+Lamz ferma les yeux, ses oreilles de bovin frémissant. Il posa une main massive sur le sol gelé.
+— La terre de Glim est malade, Darksorrow. Elle est étouffée par le Sang de Glim et les machines de ton peuple. Mais sous la gangue de basalte, les racines du monde respirent encore. Ce que tu as ressenti… ce n'est pas la première fois que j'en entends parler dans mes rêves.
 
-Crakoukaz plissa ses orbites vides, puis se tourna vers Shobek qui s'approchait, les poings serrés.
-— Maître ! C'est de la triche ! Il a utilisé un artefact, j'en suis sûr ! On ne peut pas bouger comme ça sans aide !
+Il se tourna vers une sacoche de cuir et en sortit une petite pierre plate, gravée d'un symbole représentant un souffle stylisé.
+— Les chamans de mon peuple parlent des **Reliques du Premier Souffle**. Des objets qui datent d'une époque où la vie et la mort n'étaient pas deux mondes séparés par une frontière de souffrance. Ils disent que ces reliques sont les piliers qui maintiennent le cycle des âmes.
 
-— Tais-toi, Shobek, répliqua sèchement Crakoukaz sans même le regarder. La triche est une vertu chez nous, mais l'incompétence est un crime. Si tu avais été plus attentif, tu aurais vu qu'il n'y avait aucun artefact. Juste… une anomalie. 
+Darksorrow fixa la pierre avec fascination.
+— Crakoukaz a dit que j'avais déterré quelque chose. Shobek pense que je triche. Mais moi… j'ai vu des images, Lamz. Une prairie, du soleil. C'était si réel.
 
-Il fit signe à Darksorrow de s'en aller.
-— Va voir ton ami le bœuf. Peut-être que ses herbes et ses esprits de la forêt pourront t'expliquer pourquoi tu brilles comme une lanterne de foire. Mais reviens ici pour la session de minuit. Si tu brilles encore, je te vendrai aux alchimistes pour qu’ils te dissèquent.
+— Tes souvenirs ne sont pas seulement les tiens, murmura Lamz. Tu as été réveillé à Glim, une cité bâtie sur les fondations d'un temple oublié. On dit que le **Cœur d'Astre-Noir**, l'une des reliques les plus puissantes, est enfoui quelque part sous ces rues. Si tu es sensible à sa vibration, c'est que ton âme possède une fréquence que les autres ont perdue.
 
-Darksorrow ne se le fit pas dire deux fois. Il quitta la cour en courant, ignorant les regards haineux de Shobek et les murmures des autres apprentis. Il traversa les rues sinueuses de Glim, où les fumerolles verdâtres s'élevaient des bouches d'égout et où les automates de fer rouillé transportaient des blocs de basalte. 
+Le Tauren posa sa main sur l'épaule de Darksorrow. Sa paume était immense et chaude.
+— Fais attention, mon ami. Si tu peux ressentir le Cœur, d'autres le peuvent aussi. Le **Conclave de la Face d'Obsidienne** n'est pas une simple légende pour effrayer les apprentis. Ils cherchent ces reliques depuis des siècles. Et s'ils découvrent qu'un jeune voleur mort-vivant sert de boussole à leurs désirs…
 
-Il finit par atteindre les limites de la cité, là où la roche noire cédait la place à une terre gelée et stérile. C’est ici, dans une petite enclave protégée du vent par des menhirs anciens, que Lamz avait établi son campement. Le Druide Tauren était assis près d'un feu qui ne dégageait aucune fumée, ses larges mains entourant une tasse de bois sculpté.
+Un cri strident, semblable à celui d'un oiseau de proie métallique, déchira le silence de la plaine. C'était le signal de la session de minuit.
 
-— Tu arrives plus tôt que prévu, mon ami, dit Lamz sans se retourner. Sa voix était profonde, comme le grondement lointain d'une avalanche, mais elle portait une chaleur qui apaisa immédiatement Darksorrow. Et tu sens… différemment.<!-- INK: [Your instruction here] décrit Lamz -->
+Darksorrow se redressa, la peur et l'excitation se mélangeant dans ses membres.
+— Je dois y retourner. Crakoukaz m'attend.
+
+— Pars, mais garde ton esprit clair, conseilla Lamz. Ne lutte pas contre la chaleur, mais ne la laisse pas te consumer non plus. Et Darksorrow… si tu croises un masque d'ébène dans les ombres, ne cherche pas à comprendre. Cours.
+
+Le jeune voleur hocha la tête et s'élança de nouveau vers la silhouette monumentale de Glim, dont les lumières verdâtres semblaient plus menaçantes que jamais sous le ciel sans étoiles. Il ne savait pas encore que cette nuit-là, son destin allait définitivement basculer.
+INK:NEW
+
+<!-- INK: [Your instruction here] décrit Lamz -->
 
 Darksorrow s'effondra sur un rocher en face de lui.
 — Lamz, il s'est passé quelque chose à l'académie. Quelque chose que je ne peux pas expliquer.
