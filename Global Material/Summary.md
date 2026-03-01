@@ -10,3 +10,5 @@ Darksorrow est présenté lors de son entraînement à l'académie des voleurs d
 Après son exploit, Darksorrow est interrogé par un Crakoukaz méfiant et fait face à la jalousie de Shobek. Sur les conseils du Maître, il rejoint son ami Lamz à la périphérie de Glim. Le Druide Tauren ressent immédiatement le changement en lui et l'invite à raconter son expérience, marquant le début d'une discussion sur les origines de sa nouvelle force.
 
 Lamz explique à Darksorrow que sa connexion avec les Reliques du Premier Souffle, et notamment le Cœur d'Astre-Noir, est ce qui a provoqué ses manifestations. Il le met en garde contre le Conclave de la Face d'Obsidienne avant que Darksorrow ne soit rappelé à l'académie pour la session de minuit par le signal sonore de la cité.
+
+Darksorrow revient à l'académie et découvre que les archives ont été infiltrées par un membre du Conclave de la Face d'Obsidienne. Un affrontement commence après une explosion dans la tour. L'intrus, portant un masque d'obsidienne, identifie Darksorrow comme le "réceptacle" recherché et l'attaque, alors que Shobek semble étrangement paralysé par la scène.
