@@ -1,34 +1,41 @@
 INK:NEW
-# Chapitre 2 : Les Ombres du Conclave
+La lame de vide siffla dans l'air, laissant derrière elle une traînée de distorsion sombre. Darksorrow n'eut pas le temps de réfléchir. Son corps, mû par une mémoire qui n'était pas la sienne, pivota sur lui-même. Il sentit de nouveau cette chaleur irradiante, mais cette fois, elle ne se contentait pas de le protéger. Elle guidait son bras.
 
-Le retour vers l’académie fut une plongée dans une version encore plus cauchemardesque de Glim. La nuit n’était pas seulement l’absence de soleil ; elle était une présence physique, une chape de plomb qui semblait écraser les toits de basalte. Les lanternes d’alchimie, habituellement d’un vert stable, palpitaient maintenant d’une lueur violette irrégulière, projetant des ombres qui paraissaient se détacher des murs pour suivre Darksorrow.
+Ses dagues d'entraînement, de simples morceaux de fer froid, s'entrechoquèrent avec la lame immatérielle de l'intrus. Au contact, une décharge d'énergie bleutée jaillit, illuminant la cour d'une lueur spectrale. L'homme au masque d'obsidienne recula d'un pas, son rire mental vibrant de surprise.
 
-Dans les ruelles étroites, les Murmures de l’Écho n’étaient plus de simples sons lointains. C’étaient des voix distinctes, des fragments de conversations datant d’un millénaire, se mélangeant au sifflement de la vapeur s’échappant des conduits de Sang de Glim. Darksorrow pressa le pas, ses mains serrées sur les poignées de ses dagues d’entraînement. Il se sentait exposé, comme si chaque fenêtre close cachait un regard derrière un masque d’ébène.
+— Tu ne devrais pas savoir faire ça, petit cadavre, murmura-t-il à travers l'écho psychique. Qui t'a appris les chants du Premier Souffle ?
 
-Lorsqu’il franchit la herse de fer de l’académie, il trouva la cour plongée dans un silence inhabituel. Crakoukaz n’était pas là. À sa place, une dizaine d’apprentis, dont Shobek, se tenaient immobiles, leurs visages tournés vers les archives, une tour massive qui s’élevait au centre du complexe.
+Darksorrow ne répondit pas. Il se sentait étrange, comme si sa conscience était partagée. Il voyait l'intrus, mais il voyait aussi des lignes de force invisibles qui parcouraient la cour, des courants d'énergie qui semblaient émaner des fondations de Glim. Il s'élança, ses mouvements n'ayant plus rien de la raideur habituelle des morts-vivants. Il était fluide, rapide, une ombre parmi les ombres.
 
-— Qu’est-ce qui se passe ? chuchota Darksorrow en s’approchant de Shobek.
+Shobek, toujours immobile, fixait le duel avec une intensité terrifiante. Ses dagues pendaient mollement à ses côtés, ses yeux dévorant chaque mouvement de l'homme masqué, comme s'il cherchait à en absorber la puissance par simple observation.
 
-Le rival se tourna vers lui, et pour la première fois, Darksorrow ne vit pas de l’arrogance dans ses yeux, mais une curiosité malsaine, difficile à déchiffrer.
-— Le vieux a senti une intrusion, répondit Shobek à voix basse. Quelqu’un a forcé les sceaux des archives. Personne n’est censé pouvoir faire ça sans déclencher les gardiens de pierre.
+L'intrus leva de nouveau la main, préparant un sortilège qui semblait condenser toute l'ombre de la cour. Mais avant qu'il ne puisse libérer son attaque, une voix glaciale déchira le tumulte.
 
-Soudain, une explosion de lumière pourpre déchira le sommet de la tour. Un cri inhumain retentit, suivi du fracas de vitraux brisés. Une silhouette encapuchonnée se projeta par une fenêtre, atterrissant avec une légèreté impossible au milieu de la cour.
+— Assez.
 
-La silhouette se redressa lentement. Elle portait une robe d’un noir si profond qu’elle semblait absorber la lumière des lanternes. Son visage était dissimulé derrière un masque d’obsidienne, sculpté avec une précision effrayante pour représenter les traits d’un elfe noir, figé dans un sourire cruel. Dans sa main droite, l’intrus serrait un rouleau de parchemin jauni, dont émanait une aura de désespoir.
+Crakoukaz apparut sur le balcon des archives, sa silhouette décharnée se découpant sur la lueur violette de la tour. Il ne tenait aucune arme, mais l'air autour de lui sembla soudain se solidifier. Une pression immense s'abattit sur la cour.
 
-— Le Conclave, murmura Darksorrow, le sang (ou ce qu'il en restait) se glaçant dans ses veines.
+— On ne vole pas mes secrets sous mon nez, et on ne touche pas à mes outils avant que je n'aie fini de les utiliser, gronda le Maître des voleurs.
 
-L’intrus balaya la cour du regard. Ses yeux, visibles à travers les fentes du masque, brillaient d’une flamme violette identique à celle des lanternes défaillantes. 
+L'homme au masque d'obsidienne leva les yeux vers Crakoukaz. Il ne semblait pas effrayé, mais plutôt contrarié.
+— Le vieux gardien a encore des dents, à ce que je vois. Peu importe. Nous avons ce que nous sommes venus chercher.
 
-— Écartez-vous, erreurs de la création, dit l’homme masqué. Sa voix n’était pas un son, mais une vibration mentale qui fit saigner les oreilles des apprentis les plus fragiles. Ce savoir n’appartient pas aux morts.
+Il serra le rouleau de parchemin contre lui. Une flamme violette commença à consumer ses vêtements. 
+— Darksorrow... souviens-toi de ce nom. Car bientôt, l'Écho reviendra au Silence.
 
-Shobek fit un pas en avant, ses dagues dégainées. Mais Darksorrow remarqua qu’il ne les levait pas pour attaquer. Il semblait fasciné par la silhouette.
-— Shobek ! Attaque-le ! cria Darksorrow.
+Dans une explosion de lumière noire qui fit chanceler tous les apprentis, l'intrus disparut. À l'endroit où il se tenait, il ne restait qu'une légère odeur d'ozone et un petit objet qui brillait sur le pavé de basalte.
 
-Mais avant que quiconque ne puisse bouger, l’intrus leva la main gauche. Une onde de choc d’énergie d’ombre balaya la cour, jetant les apprentis au sol. Darksorrow, pourtant, resta debout. La chaleur ancienne irradia de nouveau de sa poitrine, formant un bouclier invisible qui dissipa l’onde de choc autour de lui.
+Darksorrow s'approcha en chancelant, la chaleur dans sa poitrine s'atténuant pour laisser place à un froid épuisant. Il ramassa l'objet. C'était un éclat de pierre noire, lisse et froide, parcouru de veines lumineuses qui semblaient pulser comme un cœur miniature.
 
-L’homme au masque d’obsidienne fixa alors Darksorrow. Son sourire sculpté sembla s’élargir.
-— Toi… l’Écho est fort en toi. <!-- INK: [Your instruction here] Soit moin précis, intègre du mystère--> Tu es le réceptacle que nous cherchions.
+— Un Vecteur d'Âme, murmura Crakoukaz en sautant du balcon pour atterrir sans bruit près de lui. Sa mâchoire claqua nerveusement. Tu as attiré de gros ennuis dans ma maison, Darksorrow. De très gros ennuis.
+
+Shobek s'approcha à son tour, son regard fixé sur l'éclat dans la main de son rival. 
+— Qu'est-ce que c'est ? demanda-t-il, sa voix tremblante d'une jalousie qui n'était plus cachée.
+
+Darksorrow ne répondit pas. Il sentait la pierre vibrer contre sa paume, en parfaite harmonie avec la vibration qu'il avait ressentie plus tôt. Il savait que ce n'était que le début. Le Conclave ne s'arrêterait pas à une simple escarmouche. Ils reviendraient, et cette fois, il n'était pas sûr que Crakoukaz puisse, ou veuille, les arrêter.
+INK:NEW
+
+<!-- INK: [Your instruction here] Soit moin précis, intègre du mystère--> Tu es le réceptacle que nous cherchions.
 
 Sans plus attendre, il s’élança vers Darksorrow avec une vitesse foudroyante, une lame de vide se matérialisant dans sa main.
 INK:NEW

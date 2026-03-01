@@ -12,3 +12,5 @@ Après son exploit, Darksorrow est interrogé par un Crakoukaz méfiant et fait 
 Lamz explique à Darksorrow que sa connexion avec les Reliques du Premier Souffle, et notamment le Cœur d'Astre-Noir, est ce qui a provoqué ses manifestations. Il le met en garde contre le Conclave de la Face d'Obsidienne avant que Darksorrow ne soit rappelé à l'académie pour la session de minuit par le signal sonore de la cité.
 
 Darksorrow revient à l'académie et découvre que les archives ont été infiltrées par un membre du Conclave de la Face d'Obsidienne. Un affrontement commence après une explosion dans la tour. L'intrus, portant un masque d'obsidienne, identifie Darksorrow comme le "réceptacle" recherché et l'attaque, alors que Shobek semble étrangement paralysé par la scène.
+
+Darksorrow affronte l'intrus du Conclave, manifestant une agilité surnaturelle guidée par l'Écho. Crakoukaz intervient, forçant l'homme masqué à s'enfuir avec un parchemin dérobé. Avant de disparaître, l'intrus laisse derrière lui un "Vecteur d'Âme", un éclat de pierre mystérieux que Darksorrow ramasse. Shobek, dont l'inaction pendant le combat était suspecte, observe l'objet avec une envie manifeste.
